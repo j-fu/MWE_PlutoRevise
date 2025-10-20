@@ -1,0 +1,4 @@
+name = "SubPackage"
+uuid = "50fea88f-be5a-45e7-bff0-220f4b50b9b3"
+version = "0.1.0"
+authors = ["Jürgen Fuhrmann <juergen-fuhrmann@web.de>"]

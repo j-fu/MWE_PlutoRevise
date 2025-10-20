@@ -1,0 +1,10 @@
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+SubPackage = "50fea88f-be5a-45e7-bff0-220f4b50b9b3"
+
+[sources]
+SubPackage = {path = "SubPackage"}
+
+[compat]
+Revise = "3.10"
+julia = "1.11"
